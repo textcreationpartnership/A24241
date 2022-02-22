@@ -1,0 +1,472 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Account examined, or, A vindication of Dr. Arthur Bury, Rector of Exeter College, from the calumnies of a late pamphlet, entituled, An account of the proceedings of the Right Reverend Father in God, Jonathan, Lord Bishop of Exon, in his late visitation of Exeter College in Oxon</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24241</idno>
+            <idno type="STC">Wing A171</idno>
+            <idno type="STC">ESTC R6590</idno>
+            <idno type="EEBO-CITATION">12906002</idno>
+            <idno type="OCLC">ocm 12906002</idno>
+            <idno type="VID">95322</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24241)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95322)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Account examined, or, A vindication of Dr. Arthur Bury, Rector of Exeter College, from the calumnies of a late pamphlet, entituled, An account of the proceedings of the Right Reverend Father in God, Jonathan, Lord Bishop of Exon, in his late visitation of Exeter College in Oxon</title>
+               </titleStmt>
+               <extent>[5], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Randall Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The visitation of the bishop was occasioned by the expulsion appeal of James Colmer, the publication by Dr. Bury entitled Naked Gospel, and other alledged irregularities at Exeter.</note>
+                  <note>Advertisement: p. [3].</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bury, Arthur, 1624-1713.</term>
+               <term>Colmer, James, b. 1664 or 5.</term>
+               <term>Trelawny, Jonathan, --  Sir, 1650-1721.</term>
+               <term>Harrington, James, 1664-1693. --  Account of the proceedings of the Right Reverend Father in God Jonathan Lord Bishop of Exeter.</term>
+               <term>Exeter College (University of Oxford)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:95322:1"/>
+            <pb facs="tcp:95322:1" rendition="simple:additions"/>
+            <p>THE Account Examined: OR, A VINDICATION OF Dr. <hi>ARTH<g ref="char:V">Ʋ</g>R B<g ref="char:V">Ʋ</g>RY,</hi> RECTOR of EXETER COLLEGE.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:95322:2" rendition="simple:additions"/>
+            <p>THere will ſhortly be Publiſhed, an Im<g ref="char:EOLhyphen"/>partial Narrative of the Proceedings of the Rector and Fellows of <hi>Exeter-College,</hi> in relation to Mr. <hi>Colmer</hi>'s Expulſion; and the Biſhop of <hi>Exeter</hi>'s Viſitation, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:95322:2"/>
+            <p>THE Account Examined: OR, A VINDICATION OF Dr. <hi>ARTH<g ref="char:V">Ʋ</g>R B<g ref="char:V">Ʋ</g>RY,</hi> RECTOR of EXETER COLLEGE, FROM THE Calumnies of a Late Pamphlet, Entituled, <hi>An Account of the Proceedings of the Right Reve<g ref="char:EOLhyphen"/>rend Father in God,</hi> Jonathan, <hi>Lord Biſhop of</hi> Exon, <hi>in his Late Viſitation of</hi> Exeter <hi>College in</hi> Oxon.</p>
+            <p>
+               <hi>LONDON,</hi> Printed: and are to be Sold by <hi>Randall Taylor,</hi> near <hi>Stationers-Hall.</hi> MDCXC.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:95322:3"/>
+            <pb n="1" facs="tcp:95322:3"/>
+            <head>A VINDICATION OF Dr. <hi>ARTH<g ref="char:V">Ʋ</g>R B<g ref="char:V">Ʋ</g>RY,</hi> THE Rector of <hi>Exeter</hi> College, <hi>&amp;c.</hi>
+            </head>
+            <p>THE major part of the Fellows of <hi>Exeter</hi> College needeth no other Apology for their Proceedings, in relation both to Mr. <hi>Colmer</hi> and the <hi>Viſitor,</hi> than a Plain Honeſt Narrative. But the Rector needs to be ju<g ref="char:EOLhyphen"/>ſtified, not only againſt the Viſitor's Sentence, but likewiſe againſt the Calumnies of a Pamphlet, that repreſenteth him to the World, as worthy to be Ex<g ref="char:EOLhyphen"/>pell'd, not only from the Government of his Col<g ref="char:EOLhyphen"/>lege, but from the Society of all Mankind, without the help of an Excommunication.</p>
+            <p>To take particular notice of every groſs Falſhood and malicious Inſinuation, were to tranſcribe a great part of it. But two Cardinal Errors muſt not be paſt by, becauſe upon them the whole Affair is pretended to have turned. 1. Mr. <hi>Colmer's Expulſion</hi> is not im<g ref="char:EOLhyphen"/>puted to his Guilt, but to the Oppoſition which he made to Sir <hi>Kingſton</hi>'s Election to the Chaplain-fellowſhip. 2. And the <hi>Viſitation,</hi> not to his Lord<g ref="char:EOLhyphen"/>ſhip's willingneſs to judge of Mr. <hi>Colmer</hi>'s Appeal, or aſſert his own Juriſdiction; but to the neceſſity of freeing the College from an intolerable Rector; who, on his part, did not oppoſe it out of faithful<g ref="char:EOLhyphen"/>neſs to his duty, but <hi>to divert an enquiry into thoſe Actions which could neither be denied, nor defended.</hi>
+               <pb n="2" facs="tcp:95322:4"/>The former of theſe will in few words be confuted; and the latter, by that very Account which the Au<g ref="char:EOLhyphen"/>thor himſelf giveth of it.</p>
+            <p n="1">1. With the Former he ſolemnly beginneth his Account, <hi>p.</hi> 15. but in ſo confuſed a manner, as plainly betrayeth his Ignorance concerning Ele<g ref="char:EOLhyphen"/>ctions in Colleges; yea, and concerning the beha<g ref="char:EOLhyphen"/>viour of the preſent Fellows of This very College. For had he known that three, if not all the four, of thoſe who now conſented to the Expulſion of the Rector, owe their Places in it to his kindneſs; he muſt know, that he could be no more ſecure of <hi>com<g ref="char:EOLhyphen"/>manding Sir</hi> Kingſton<hi>'s vote,</hi> than any other man's; and did he underſtand the buſineſs of an Account, he could not think the Rector needed one Vote to make the diviſion of the College equal, when he had the majority on his ſide. The truth of the Story is plainly this; Dr. <hi>Reynel</hi> (late Fellow of <hi>C. C. C.</hi>) recom<g ref="char:EOLhyphen"/>mended to the Rector a young man of his College, whom he admired for his ſingular acquaintance with Books: the Rector therefore upon examina<g ref="char:EOLhyphen"/>tion finding this to be true, had a particular eye upon his Manners; and as he found him otherwiſe unblameable, ſo he obſerved him to be one of the ve<g ref="char:EOLhyphen"/>ry few that were conſtant at monthly Communions.</p>
+            <p>When the Chaplain-fellowſhip was ſhortly to be vacant, he received a Letter from the Chapter-Clerk of <hi>Exeter,</hi> informing him, That the Dean and Chapter (in whoſe Gift that place is) had for this time given him the nomination of it; he therefore promiſed it to Sir <hi>Kingſton:</hi> Which Mr. <hi>Colmer</hi> un<g ref="char:EOLhyphen"/>derſtanding, went himſelf, and then got as many as he could of the Fellows to write to the Dean and Chapter, praying them not to nominate Sir <hi>King<g ref="char:EOLhyphen"/>ſton,</hi> who on his part got a greater number to write
+<pb n="3" facs="tcp:95322:4"/>a contrary Letter in his favour, whereby, and by the Rector's mediation, he obtained the place.</p>
+            <p>Such an Affront put upon a Rector by a Batchel<g ref="char:EOLhyphen"/>lor of Arts, the Libeller (judging of the Rector's mind by his own) thinks ſufficient to make him de<g ref="char:EOLhyphen"/>clare, <hi>That he would upon that account compaſs Mr.</hi> Col<g ref="char:EOLhyphen"/>mer<hi>'s Expulſion:</hi> but this revengeful, malicious Old Man (as ſome-body charactered him) was ſo far from it, that he gave him not the leaſt reprimand in word or countenance: yea, whereas he had now time to take his Degree of Maſter of Arts, but could not have it without the Rector's conſent, and the denial of it would make him ſick of his Fellowſhip, which would not be ſo advantageous to him, as the hindrance of his Practice of Phyſick would be pre<g ref="char:EOLhyphen"/>judicial; the Rector was ſo far from denying it, that he did not put him to the trouble of asking it, but conſulting his (then ſuppoſed) Modeſty, frankly gave him his Letter to the Sub-Rector (themſelves being then in <hi>Devonſhire</hi>) whereby he had his De<g ref="char:EOLhyphen"/>gree: nor did he afterward change his Countenance toward him, till he found him named Father of a Baſtard.</p>
+            <p n="2">2. The other Cardinal Falſhood, <hi>viz.</hi> That the Viſitation was held on purpoſe to free the College from an intolerable Rector, is ſometimes contradi<g ref="char:EOLhyphen"/>cted by the Accomptant himſelf, particularly, <hi>p.</hi> 11. <hi>His Lordſhip was ſworn to preſerve the Rights of his See; and This of receiving Appeals, and Viſiting of</hi> Exeter <hi>College, was not only one of them, but ſo much the more neceſſary to be preſerved, as his Lordſhip's Dioceſe hath a more than ordinary relation to That College.</hi>
+            </p>
+            <p>Again, The <hi>enormous Crimes</hi> of the Rector are ſometimes made the <hi>Cauſe</hi> of the Viſitation, and ſometimes the diſcovery of them are gloried in as
+<pb n="4" facs="tcp:95322:5"/>the <hi>Effect</hi> of it. Were it fit to follow the Author's Example, by expoſing him for his notorious Falſe<g ref="char:EOLhyphen"/>hoods, as he hath laboured to do the Rector for his pretended Crimes; he hath been very liberal in giving occaſions; but this were to honour the Scrib<g ref="char:EOLhyphen"/>ler with a ſuppoſal, That the Reader would think it worth his time to know what kind of thing he is. We ſhall therefore ſo far only take notice of him, as may ſuffice to clear the Rector from the Crimes ob<g ref="char:EOLhyphen"/>jected; which come under two Heads, <hi>Hereſy</hi> and <hi>Immorality.</hi>
+            </p>
+            <p n="1">1. Concerning his Hereſy, thus talketh the young Man, that is not of ſtanding ſufficient to ſtudy Theology: P. 22. <hi>Not long before this time, an He<g ref="char:EOLhyphen"/>retical Book, entituled the</hi> Naked Goſpel, <hi>was Pub<g ref="char:EOLhyphen"/>liſhed by Dr.</hi> Bury, <hi>wherein he endeavours to confute the Divinity of Chriſt, and to expoſe it.</hi> Dr. <hi>Bury</hi> denieth that he can properly be ſaid to have Pub<g ref="char:EOLhyphen"/>liſhed that Book; and again, he profeſſeth, that he never denied the Divinity of Chriſt. He decla<g ref="char:EOLhyphen"/>reth his Faith to be no other than that of the Church of <hi>England;</hi> and renounceth any word, which in that, or any other Book, may ſeem to contradict it. Yea, he thinketh manifeſt, that the Author of that Book is ſo far from denying the Divinity of Chriſt, that he plainly aſſerteth it, and that in many places; which for brevities ſake may here be omitted; One, if a plain one, being in this caſe ſufficient: And ſuch an one we meet in Chap. 11. in the compariſon which he there maketh between the <hi>Full Aſſurance of a Chriſtian,</hi> and the <hi>Faint Hopes of a Heathen,</hi> in the great Article of a <hi>Reſurrection.</hi> He conſidereth the great difference be<g ref="char:EOLhyphen"/>tween the Perſons in whom the One and the Other believed. <hi>Seneca</hi> call'd his Maſters <hi>Great Men;</hi> but
+<pb n="5" facs="tcp:95322:5"/>(ſaith this Book) <hi>Our Author of the Goſpel was not only Great, but Infinite.</hi> Whatever expreſſion, un<g ref="char:EOLhyphen"/>ſuitable to ſo plain an Aſſertion, may drop from an haſty Pen, ought to be thereby interpreted; and imputed, not to the Author's ſetled Opinion, but his too great heat, in a Queſtion which indeed did not concern the <hi>Divinity of Chriſt,</hi> but the <hi>Manner of his Generation:</hi> For the Former was on both ſides acknowledged; the Later was the whole Subject of the Diſpute, which <hi>Conſtantine</hi>'s Letter ſo often calleth <hi>ſily.</hi>
+            </p>
+            <p>Whoever readeth That Book with Application and Judgment, will find that the deſign of it is on<g ref="char:EOLhyphen"/>ly to diſable Human Authority from impoſing up<g ref="char:EOLhyphen"/>on our belief more Doctrines than our Lord or his Apoſtles declared to be neceſſary; that ſo, by a due confinement of Faith, Charity may be enlarged. And if this be an Hereſie, it is ſo good an one, and ſo generally embraced, that no man needs be afraid or aſhamed to own it. And in the particular Do<g ref="char:EOLhyphen"/>ctrine of <hi>Chriſt's Generation,</hi> whatever is intended in the <hi>Naked Goſpel,</hi> is ſummed up by Dr. <hi>Wallis,</hi> (whoſe ſtrict Orthodoxy was never yet queſtion'd) near the Cloſe of a little Treatiſe, lately by him publiſhed, concerning the <hi>Doctrine of the Bleſſed Trinity,</hi> in this Parentheſis, <hi>(For neither hath God diſtinctly declared it to us, nor are we able fully to com<g ref="char:EOLhyphen"/>prehend, nor is it neceſſary for us to know.)</hi>
+            </p>
+            <p>This once well obſerved, the Naked Goſpel muſt be acquitted from Blaſpheming the Divinity of Chriſt; and for the charge of Expoſing it, there is no other evidence pretended, but this, That he is <hi>ſometimes ſtiled a crucified Vagabond:</hi> He is (indeed) once, and but once ſo ſtiled, and that is in the In<g ref="char:EOLhyphen"/>troduction; in which place the Author plainly
+<pb n="6" facs="tcp:95322:6"/>perſonateth an Infidel, that he may convince him. The Argument is drawn from the incredible diſ<g ref="char:EOLhyphen"/>proportion between the meanneſs of our Saviour's appearance in his Life-time, and the Triumphs of his Croſs after his Death: In which kind of Argu<g ref="char:EOLhyphen"/>ment, by how much more emphatically the former is depreſſed, by ſo much the more powerfully the Inference is, exalted, and our Saviour's Divinity proved: The Jeweller doth not diminiſh the value of his Diamond, when by the blackneſs of a Foil he ſetteth off its Luſtre.</p>
+            <p>What followeth, <hi>That the Godhead of our Savi<g ref="char:EOLhyphen"/>our is declared to be an Impertinent and Dangerous Speculation,</hi> is anſwered by the now mentioned di<g ref="char:EOLhyphen"/>ſtinction; the overlooking whereof is the true Reaſon, both of the Libeller's and many other Mens miſtakes. Thoſe Fathers, who were the moſt earneſt aſſertors of the Doctrine of Chriſt's Divi<g ref="char:EOLhyphen"/>nity, were alſo the ſevereſt cenſurers of Curioſity concerning the manner of his Generation, which is the proper deſign of this Author.</p>
+            <p>He never was either ſo unjuſt as to pretend to <hi>a ſole, unqualified, and incommunicable power;</hi> nor ſo Fooliſh as to claim it from thoſe words in the Coll. Stat. <hi>Sit unus Rector.</hi>
+            </p>
+            <p>
+               <hi>That the whole Syſtem of the</hi> Socinian <hi>Doctrine, is by this Plagiary tranſcribed and made his own;</hi> if it be true, is an evidence that the Rector is not this Plagiary; for he proteſteth, that in his whole Life he never ſpent ſo much time in reading <hi>Socinian</hi> Books, as, put all together, would amount to one day. And to ſome it may ſeem wonderful, that ſo young a Scribler, ſhould be ſo skilful in the <hi>Soci<g ref="char:EOLhyphen"/>nian Doctrines and Arguments,</hi> when, by the Law, none under the quality of a Dean are permitted to read ſuch Books.</p>
+            <pb n="7" facs="tcp:95322:6"/>
+            <p>If the Rector ordered this Book to be Printed, he never ordered it to be Publiſhed. If he intend<g ref="char:EOLhyphen"/>ed to have preſented it to the Convocation, it was to have been done, not openly, but within doors; that ſo from the Principles of the Goſpel, they might be induced to inlarge their Charity, at a time when all the Chriſtian World expected it from them. If he made Alterations, it was to remove Offences, which might be taken by ſome of the Vulgar, for whom it was not calculated.</p>
+            <p n="2">II. WE are now come to the ſecond part of the Charge, his Immoralities. P. 24. <hi>This Book of the Rector's was not more complained of to the Viſitor, than his Life; and his Morals diſcredited the College no leſs than his Speculations.</hi> A heavy Charge! But how proved? Even by the contents of ſuch falſe or frivolous informations, as were given in the Viſi<g ref="char:EOLhyphen"/>tation it ſelf.</p>
+            <p>The weight and truth of them we ſhall quickly find a fitter place to examine; we may at pre<g ref="char:EOLhyphen"/>ſent judge of the honeſty of the Accountant, by obſerving how he contradicteth himſelf, in making theſe pretended Exorbitances the Cauſe of the Vi<g ref="char:EOLhyphen"/>ſitation, that thereby they might be reformed; and yet the Diſcovery of them the Effects of the Viſita<g ref="char:EOLhyphen"/>tion, wherein they were (his Lordſhip ſaith) <hi>de<g ref="char:EOLhyphen"/>tected and proved.</hi> What! Could they move his Lordſhip to undertake ſo great a trouble, before they were detected? or could they be ſaid to be <hi>de<g ref="char:EOLhyphen"/>tected before him</hi> in Viſitation, if they were ſo no<g ref="char:EOLhyphen"/>torious before he reſolved to Viſit?</p>
+            <p>No leſs groſs is the Anachroniſm which follow<g ref="char:EOLhyphen"/>eth: <hi>So that the Diſſentions of the Fellows, upon theſe arbitrary proceedings, grew high; and without the inter<g ref="char:EOLhyphen"/>poſing care of the Viſitor, there was no proſpect of quiet
+<pb n="8" facs="tcp:95322:7"/>or agreement.</hi> Never was there a deeper Calm in the College, till its Peace was diſturbed, firſt by Mr. <hi>Colmer</hi>'s Appeal, and then by the Viſitor's In<g ref="char:EOLhyphen"/>terpoſition. From that very day, wherein it ap<g ref="char:EOLhyphen"/>peared that his Lordſhip would be concerned, the Juniors threw off the reſpect which either Statutes or good Manners made due to their Seniors and Officers; and by this Viſitation, the diſorder is rai<g ref="char:EOLhyphen"/>ſed to ſuch a height, as alloweth no proſpect beyond it, without the interpoſition of a greater Power.</p>
+            <p>What followeth is ridiculous. <hi>It was eaſie now</hi> (when nothing of danger appeared) <hi>to foreſee, that nothing could put a ſtop to the ruine of the</hi> (Proſpe<g ref="char:EOLhyphen"/>rous and Peaceful) <hi>College, but a Viſitation; no other way of reforming theſe <hi>(unknown)</hi> enormities; or of compoſing theſe <hi>(unmade)</hi> diviſions; no other me<g ref="char:EOLhyphen"/>thod could prevent the change of this Nurſery of Reli<g ref="char:EOLhyphen"/>gion into a Seminary of</hi> Socinianiſm, whereof it was not in the leaſt danger; <hi>and therefore his Lordſhip was reſolved</hi> to ſtrain <hi>the great truſt repoſed in him,</hi> by exerciſing a Power which none of his Predeceſ<g ref="char:EOLhyphen"/>ſors ever pretended to.</p>
+            <p>Whatever is ſaid either before or after this, con<g ref="char:EOLhyphen"/>cerning the Rector's carriage toward the Viſitor, can make him no more Criminal than the majority of the Society, who joined with him in every ſtep, and that by advice of Counſel.</p>
+            <p>The proper weight of his Charge muſt lie in thoſe <hi>many enormous Crimes,</hi> which the Viſitor in his Sen<g ref="char:EOLhyphen"/>tence declareth to have been <hi>detected and proved be<g ref="char:EOLhyphen"/>fore him,</hi> whereof we are obliged to the Accountant for a Catalogue. But they are ſuch as may be blown off with a puff of breath without a ſolemn Anſwer.</p>
+            <p n="1">1. <hi>That the Rector was the reputed Author of a Book called the Naked Goſpel</hi> (which is not proved to be ei<g ref="char:EOLhyphen"/>ther
+<pb n="9" facs="tcp:95322:7"/>Schiſmatical or Heretical) <hi>That he ſat at St.</hi> Atha<g ref="char:EOLhyphen"/>naſius<hi>'s Creed in the Chappel</hi> (twice or thrice at moſt) <hi>That he was generally ſuſpected of Hereſy</hi> (without any occaſion by him given) <hi>And did not read Prayers ſo often in the Chappel, as by Statute he is obliged</hi> (yet as long as his ſight enabled him to do it without Spectacles, he conſtantly read the Communion Service every Month.</p>
+            <p n="2">2. <hi>He pretended to an Arbitrary Power over the Fellows, and put ſome of them out of Commons for obeying the Inhi<g ref="char:EOLhyphen"/>bition of the Viſitor in Mr.</hi> Colmer<hi>'s Caſe.</hi> He never pre<g ref="char:EOLhyphen"/>tended to an Arbitrary Power; and in Mr. <hi>Colmer</hi>'s Caſe he did but his duty, having no better way to put him out of the College, when Expelled, than by Suſpending him that kept him in it.</p>
+            <p n="3">3. <hi>That he ſold Places and Offices in the College, particu<g ref="char:EOLhyphen"/>larly thoſe of the Cook and Butler.</hi> Thoſe places are more profitable than the Rector's own, and therefore worth purchaſing. It was done about Twenty years ſince; was approved of in a Viſitation held about Fourteen ſince by Dr. <hi>Maſter;</hi> is countenanced by a Statute, which taking away the Mancipal's place, alloweth the Rector 10 <hi>l.</hi> 13 <hi>s.</hi> 4 <hi>d.</hi> in compenſation for his loſs of the advantage which had belonged to him by the diſpoſal of it; His pre<g ref="char:EOLhyphen"/>deceſſors had openly practiſed it; and <hi>Harding</hi> himſelf (if interrogated) muſt have declared that his Father bought it of Dr. <hi>Prideaux.</hi> The Cook and Butler (when examined) depoſed, That the Rector, when he took the Money of them, told them it muſt be laid out in College-building (which the Accountant thought not fit to take notice of). By valuation of Workmen it appeareth, that the Rector added to it 500 <hi>l.</hi> out of his own Purſe: and he can give account of 200 <hi>l.</hi> more, not by them known.</p>
+            <p>
+               <hi>He propoſed the illegal exaction of Bonds from the Fellows who thereafter ſhould be Elected, whereby they ſhould be enga<g ref="char:EOLhyphen"/>ged to ſeek no reparation if he Expelled them.</hi> To propoſe any thing to the Fellows is no Crime, He did this by advice of Counſel; it is practiſed in ſome other Colleges, and our preſent trouble maketh it adviſable in ours, ſo to avoid fu<g ref="char:EOLhyphen"/>ture
+<pb n="10" facs="tcp:95322:8"/>Appeals, not if the Rector, but if the Rector and his Statutable Aſſeſſors ſhould expel any.</p>
+            <p n="4">4. <hi>That he was by publick fame, upon probable Grounds, ſuſpected of Incontinency.</hi> For this Information he is to thank Mr. <hi>Colmer,</hi> and will anſwer it anon. But how can thoſe anſwer their breach of Oath, who ſpake nothing of Mr. <hi>Colmer's</hi> Incontinence, not only upon probable grounds ſuppoſed, but by plain evidence proved.</p>
+            <p n="5">5. <hi>That Dr.</hi> Hearn <hi>having a Parſonage above the value limited in the Statute, kept his place contrary to the intent of the Founder.</hi> The Rector had a controverſy with Dr. <hi>Hearn</hi> concerning it; the Vice-Chancellor, now Lord Biſhop of <hi>Briſtol,</hi> had the hearing of it; he determined that we muſt not act by <hi>the intent of the Founder,</hi> but the Letter of the Statute; and that by the Letter of the Statute the Rector could not void his Fellowſhip: He therefore, according to his obligation, acquieſced in that Sentence.</p>
+            <p n="6">6. <hi>That Mr.</hi> Vivian <hi>was Elected into Mr.</hi> Colmer<hi>'s place, being then full.</hi> That Place was both vacated, and filled by direction of Statute.</p>
+            <p n="7">7. And Laſtly, <hi>That Divinity Diſputations were ſeldom held; The Philoſophical Lectures performed by Deputies; The Catechiſts Duty not obſerved; and in ſhort, the whole Diſcipline of the College neglected.</hi> The Rector laboured hard to have <hi>Divinity Diſputations duly held;</hi> but neither he nor his Pre<g ref="char:EOLhyphen"/>deceſſors could effect it; partly by reaſon of a Decree which obliged the Commoner-Maſters to be equal there<g ref="char:EOLhyphen"/>in with the Fellows; partly by abſence of Fellows when their turns came. <hi>That Philoſophical Lectures were perform<g ref="char:EOLhyphen"/>ed by Deputies,</hi> hath no colour of blame. <hi>That the Catechiſts Duty was not obſerved,</hi> is a crime beyond memory; the ſtipend being but 20 <hi>s.</hi> and the Duty not clearly expreſs'd. <hi>That the whole Diſcipline of the College was neglected,</hi> is a Charge too general to be either Believed or Anſwered.</p>
+            <p n="2">2. After ſuch diſcoveries of ſuch Crimes, little will need to be ſaid of the Sentence, which in Latine ſpeaks thus,—<hi>Propter ejus manifeſtam &amp; multiplicem Contuma<g ref="char:EOLhyphen"/>ciam, &amp; circumſtantiis variis aggravatam in non ſubmit<g ref="char:EOLhyphen"/>tendo
+<pb n="11" facs="tcp:95322:8"/>ſe Viſitationi noſtrae Ordinariae ſed contumaciter ſe abſen<g ref="char:EOLhyphen"/>tantem (quod quidem repetundarum &amp; criminum aliorum e<g ref="char:EOLhyphen"/>normium, imò Haereſis metu feciſſe videtur)</hi> which may thus faithfully be tranſlated into <hi>Engliſh,—For his manifeſt and manifold Conſtancy, aggravated by the concurrence of the greater part of the Society, in not ſubmitting himſelf to our <g ref="char:V">Ʋ</g>nſtatutable Viſitation, but conſtantly abſenting himſelf, which he ſeemeth to have done, for fear of being found a Benefactor to his College, and for a few other frivolous miſcarriages, part falſly ſuggeſted, part inſignificantly proved, yea, of the charita<g ref="char:EOLhyphen"/>ble Hereſy of the</hi> Latitudinarians, <hi>who Teach, that a Man may be ſaved if he believe all that our Saviour and his Apo<g ref="char:EOLhyphen"/>ſtles declared to be neceſſary.</hi>
+            </p>
+            <p>This better deſerveth the name of an Account, for it is a faithful one; of,</p>
+            <p n="1">1. The Innocency of the Rector, in whoſe Twenty five years Conduct no greater faults could be found.</p>
+            <p n="2">2. The Officious malice of the Informants, who would rather play ſuch ſmall game than ſit out.</p>
+            <p n="3">3. The unreaſonableneſs of the Accountant, who ma<g ref="char:EOLhyphen"/>keth ſuch outcries for nothing.</p>
+            <p n="4">4. The exact Juſtice of the Viſitor, puniſhing the ſame contumacy in the Rector with Deprivation, and in the equally guilty Fellows, only with ſuch Suſpenſion as might diſable them from defending him; and all by the extraordinary power of an Ordinary, now firſt heard of in the College, and practiſed upon a perſon whom him<g ref="char:EOLhyphen"/>ſelf had put out of his Juriſdiction if he had any.</p>
+            <p>The parity of Reaſon therefore which is pretended be<g ref="char:EOLhyphen"/>tween the Rector's Caſe and Mr. <hi>Colmer</hi>'s, alledging, that the one may no more Appeal than the other, is utterly void of Reaſon: For in Mr. <hi>Colmar</hi>'s Caſe, both Judges and Crime are ſtatutable; but in the Rector's, neither the one nor the other. And his Story, That the <hi>Rector openly declared, that he would not acquieſce in the determination of Their Majeſties in Council,</hi> is equally void of Reaſon and Truth. And indeed, the Art of that Paragraph is admira<g ref="char:EOLhyphen"/>ble, if it can impoſe upon any conſidering Reader; for he
+<pb n="12" facs="tcp:95322:9"/>ſo wordeth it, as to accuſe the Rector for declaring he would not ſubmit to His Majeſty in Council, yet ex<g ref="char:EOLhyphen"/>cuſe the Viſitor in caſe he ſhould do the ſame. <hi>Application to Council</hi> (ſaith he) <hi>in things of that Nature, hath alway been warranted by Cuſtom; the Precedents of their Final deciſions are not few:</hi> There's for the Rector. But for the Viſitor, the ſofter word <hi>Arbitrations</hi> is added to <hi>Deciſions; and their Or<g ref="char:EOLhyphen"/>ders have been uſually, by mutual conſent of both Parties, o<g ref="char:EOLhyphen"/>beyed.—Whether their Lordſhips did not think this Cauſe to fall under their cogniſance, or upon any other motive (which being things ſecret and uncertain, it is not proper to enquire in<g ref="char:EOLhyphen"/>to) their Lordſhips thought fit wholly to diſmiſs this Cauſe from that Board, and to refer the Viſitor to the uſual courſe of Law.</hi> All this is for the Viſitor, whoſe Petition was diſmiſſed in the ſame manner, and upon as full a hearing, as in <hi>Chan<g ref="char:EOLhyphen"/>cery</hi> any Complainants Bill is diſmiſſed when his Cauſe appeareth to be bad. Yet was the Rector never ſo rudely inſolent, as to ſay that <hi>he had laid the Viſitor upon his Back.</hi>
+            </p>
+            <p>But now, ſince in this entangling Paragraph things are ſpoken for the Power of that Honourable Board, that the Rector may appear diſobedient; and ſome for diminu<g ref="char:EOLhyphen"/>tion of That Power, that the Viſitor may be excuſed; how can it be prevented that theſe different Aſſertions ſhould not miſtake their way, and ſo his Lordſhip bear the blame which was intended for the Rector, and the Rector be juſtified by what was intended for the Viſitor? Nothing appeareth but meer confidence that his charms have ſo enchanted the Reader, that he cannot believe any good of the One, or any ill of the Other; and an impotent malice to the Rector, whom he would not forbear to ca<g ref="char:EOLhyphen"/>lumniate, tho his Lordſhip might ſuffer equally with him.</p>
+            <p>But the plain matter of fact is this: His Lordſhip, up<g ref="char:EOLhyphen"/>on the College's refuſal to ſubmit to his Viſitation, made his complaint to that Honourable Board: yet now, that the College (following his example) complained of his Unſtatutable Proceedings, and Her Majeſty, then perſo<g ref="char:EOLhyphen"/>nally preſent in Council, ordered that his Lordſhip ſhould ſend his Anſwer in writing with all convenient ſpeed;
+<pb n="13" facs="tcp:95322:9"/>which Order was preſented to his Lordſhip on the 22d of <hi>Auguſt:</hi> yet hath he not taken any notice thereof; and thoſe of his Party in the College ſay, That his Lordſhip declareth (as this Writer falſly ſaith the Rector did), That the Council hath no Power to determine it. On the con<g ref="char:EOLhyphen"/>trary, the Rector always did, and ſtill doth declare, That ever ſince there was a College in <hi>England,</hi> His Majeſty's Predeceſſors have been acknowledged Supreme Viſitors in them all; That there are many Precedents of their de<g ref="char:EOLhyphen"/>terminations of all kinds of Controverſies, and in all kinds of ways, ſometimes in Council, ſometimes by references to perſons appointed by themſelves, ſometimes by Let<g ref="char:EOLhyphen"/>ters, <hi>&amp;c.</hi> But never any Precedent of mutual Conſent of both Parties.</p>
+            <p>And he addeth, That however other Subjects may claim to have their Rights determined by courſe of Law, yet with Societies of Students the caſe is very different. For the continuance of diſſention during ſo tedious a time, may probably be more miſchievous to ſuch a Corpora<g ref="char:EOLhyphen"/>tion, than any quick Sentence. And he profeſſeth, that were not the Intereſt of his College wrapt up in his own, he would rather chuſe to be ruined by a ſpeedy Order of that Honourable Board, than indemnified by keeping his College ſo long in the diſorder it now groans under, which in half an years time will do it more miſchief, than can be repaired in a whole Age.</p>
+            <p>And for his poor College, he cannot avoid pleading, that it appeareth very ſtrange, that One ſhould ſuffer for refuſing to ſubmit to a Power, which ſince the founda<g ref="char:EOLhyphen"/>tion of the College, till now, was never <hi>Claimed;</hi> and another triumph in refuſing to ſubmit to a Power, which till now, was never <hi>Queſtioned.</hi>
+            </p>
+            <p>THE Rector thus vindicated from the Sentence of the Viſitor, it remaineth that he be ſo from an Information of the Author, ſo agreeable to his good humour, that he cannot forbear to ſuggeſt it, tho in good manners (for<g ref="char:EOLhyphen"/>ſooth) the modeſt man will not expoſe it. <hi>Concerning the fourth Article</hi> (ſaith he) <hi>three Affidavits were taken, which out of reſpest to the Rector's Character, it is thought fit at pre<g ref="char:EOLhyphen"/>ſent to conceal.</hi>
+            </p>
+            <pb n="14" facs="tcp:95322:10"/>
+            <p>How! Three Affidavits! A Biſhop by the Apoſtle's Rule may receive an Accuſation againſt an Elder by Two or Three Witneſſes. And if there be Three, con<g ref="char:EOLhyphen"/>cerning a Crime which of it ſelf the Statute maketh ſuf<g ref="char:EOLhyphen"/>ficient for deprivation, what needs the ſuperfluous trou<g ref="char:EOLhyphen"/>ble of hunting about for other petty Informations to make up an accumulative Guilt? And (which is yet more unaccountable) when the Viſitor in his Sentence ſo ap<g ref="char:EOLhyphen"/>parently ſtraineth for a competent Crime, why is not This once mentioned, which would make ſo conſiderable a Figure among ſo many Cyphers? That it was not re<g ref="char:EOLhyphen"/>verence to the Rector's Character, but his Own, which made his Lordſhip aſhamed to mention ſo groſs a Story, and nothing but malice could tempt the Author to do it, when his Lordſhip had not done it in thoſe Proceedings, whereof the Title Page profeſſeth an Account, will ap<g ref="char:EOLhyphen"/>pear to any honeſt judicious Reader by the Relation which we ſhall now give of it.</p>
+            <p>About 20 years ſince, the Rector took pity of a Coun<g ref="char:EOLhyphen"/>try Woman of his (one <hi>Thomaſin</hi>) who by marriage with an Idle, Drunken Fellow (one <hi>Ferdin. Smith</hi>) was fallen into extremity of want: he gave her ſuch Employments in the College as enabled her to maintain Him, her ſelf, and Children.</p>
+            <p>The Rector, with his Wife and whole Family, ſpent a good part of the Summer 1688. in <hi>Devonſhire;</hi> he was obliged to be at the College at <hi>Allhallontide;</hi> thither there<g ref="char:EOLhyphen"/>fore he came, leaving his Family in <hi>Devonſhire,</hi> with in<g ref="char:EOLhyphen"/>tent to return to them as ſoon conveniently he could, and winter with them there. But by the happy unexpected coming of his preſent Majeſty, then P. of <hi>O.</hi> the Country being full of Soldiers, he was neceſſitated to delay his re<g ref="char:EOLhyphen"/>turn two months longer than he intended. Being therefore loath for a ſhort and uncertain time to take a Servant in<g ref="char:EOLhyphen"/>to Covenant, he ſpake to this Woman to get ſomebody to keep clean his Houſe, <hi>&amp;c.</hi> by the week. She ſent him the famous <hi>A. Sparrow,</hi> whom after ſome weeks patience he complained of, and ſaid, he found he needed a better Ser<g ref="char:EOLhyphen"/>vant, and one that might be in his Houſe at all hours: To
+<pb n="15" facs="tcp:95322:10"/>the ſame purpoſe alſo he ſpake to Mrs. <hi>Wells,</hi> who got him another, which when he told <hi>Thomaſin</hi> of, ſhe diſſua<g ref="char:EOLhyphen"/>ded him from taking her, becauſe ſhe was ill conditioned; and recommended her own Daughter, who had formerly been his Servant, and was then at home with her Parents. He took her, and being now a Houſekeeper, took home one <hi>Grace Weeks,</hi> (whom at breaking up of Houſe, his Wife had put to a Boarding-School in the Town, and kept her in his Houſe while the Town was full of Soldiers.</p>
+            <p>Preſently after <hi>Chriſtmaſs,</hi> he returned to <hi>Devonſhire</hi> to his Family, and ſoon after his return thence to <hi>Oxford,</hi> he found this Woman's Husband ſo impudent as to take up<g ref="char:EOLhyphen"/>on himſelf to Father a Baſtard, tho it were plain he was in <hi>Cornwall</hi> when it was begotten; and to refuſe to an<g ref="char:EOLhyphen"/>ſwer ſuch Queſtions as the Rector propoſed to him in or<g ref="char:EOLhyphen"/>der to the finding out the True Father; The Woman her ſelf alſo prevaricating in her Anſwers, he took away one of her Places, threatning to deprive her of the other alſo, if her Husband would not undergo examination up<g ref="char:EOLhyphen"/>on his voluntary Oath, or otherwiſe diſcover the True Father of the Baſtard; and after ſome months time was as good as his word, notwithſtanding ſome threats which were brought him from her, of ſomething that ſhould be ſworn againſt him.</p>
+            <p>When his Lordſhip came with ſuch an high hand to viſit the College, and everyone doomed the Rector to ex<g ref="char:EOLhyphen"/>pulſion; whether in hope of favour from the Future Re<g ref="char:EOLhyphen"/>ctor, or an itch of revenge upon the Preſent, or to gratify their good Maſter <hi>Colmer;</hi> or whatever other Reaſon, the Mother, Daughter and Son, combine to diſgrace and ruine their Old Maſter.</p>
+            <p>The firſt and greateſt blow was to be given by the Daughter, who would ſwear that he tempted her to In<g ref="char:EOLhyphen"/>continence at the time when ſhe was with him in the Houſe, above a year and half paſt; he being at that time threeeſcore and five years old.</p>
+            <p>As ſoon as this Trull diſcovered her intent, two of the Seniors, and two of the Juniors of the Viſitor's Party made this Addreſs to him.</p>
+            <pb n="16" facs="tcp:95322:11"/>
+            <p>
+               <floatingText xml:lang="eng" type="letter">
+                  <body>
+                     <opener>
+                        <salute>May it pleaſe your Lordſhip,</salute>
+                     </opener>
+                     <p>
+                        <hi>We whoſe names are under-written, do humbly beſeech Your Lordſhip, not to give credit to, or take any notice of the Te<g ref="char:EOLhyphen"/>ſtimony of</hi> Mary Smith, <hi>or any of her Relations, in order to the proving Mr. Rector guilty of Incontinence with her, or any other: for we are verily perſuaded it is a mere For<g ref="char:EOLhyphen"/>gery, and done out of Malice.</hi>
+                     </p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>Rich. Hutchins,</item>
+                              <item>Rob. Ratcliff,</item>
+                              <item>Hen. Northcot,</item>
+                              <item>Fran. Webber.</item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>This is a competent Anſwer to Mr. <hi>Colmer</hi>'s 4th Ar<g ref="char:EOLhyphen"/>ticle: For if the Rector were before this <hi>by publick fame, upon probable grounds, ſuſpected of Incontinence;</hi> that muſt have made the preſent Information credible, ſo far at leaſt, as to have diſcouraged them from ſuch an interpo<g ref="char:EOLhyphen"/>ſition.</p>
+            <p>The Daughter's Affidavit is indeed very particular; and that it might be ſtrengthened by ſome auxiliary Evi<g ref="char:EOLhyphen"/>dence, <hi>Grace Weeks</hi> is vouched for a Witneſs, and a Mole in the Rector's Foot for a Token. <hi>Grace Weeks</hi> the Viſi<g ref="char:EOLhyphen"/>tor very kindly examined, exhorting her not to ſpare the Rector, becauſe it would be for his good to have his Lewdneſs diſcovered: but finding her conſtant in clear<g ref="char:EOLhyphen"/>ing him, believed (it ſeems) his Compurgators had rea<g ref="char:EOLhyphen"/>ſon for their confidence. Yet he conſtantly interrogated all that were brought before him, and had uſed to come to the Rector's Lodgings, Whether they knew any ill concerning him?</p>
+            <p>The Mole is no competent Token, for it is proved not to have been a Secret.</p>
+            <p>The Mother's Affidavit voucheth Mrs. <hi>Wells</hi> and Goodwife <hi>Harper:</hi> The former cleareth the Rector by Affidavit; the other by Word before Witneſſes, there being no means to compel her to make Oath, and ſhe be<g ref="char:EOLhyphen"/>ing fearful to be undone, as others had been, if ſhe ſhould do it voluntarily.</p>
+            <p>The Son telleth an inſignificant Tale of the Rector's ſitting in a Settle, and then going out into the Kitchen with one <hi>Martha Wotton,</hi> who maketh Affidavit, That ſhe believeth the Rector to be as chaſt as any man what<g ref="char:EOLhyphen"/>ſoever.</p>
+            <pb n="17" facs="tcp:95322:11"/>
+            <p>This good Family have neglected no means to get ſome ſtrengthning to their own ſuſpected Te<g ref="char:EOLhyphen"/>ſtimonie, they have hunted about the Country, to try if by any means ſome one that had lived in his Family might be brought to Witneſs againſt the Doctor Particularly <hi>Joan Richardſon,</hi> the Siſter of one <hi>Elizabeth Terry,</hi> told one <hi>Elizabeth Auſtin</hi> that <hi>Tho<g ref="char:EOLhyphen"/>maſin Smith</hi> came to her Mother and her, to en<g ref="char:EOLhyphen"/>quire where the ſaid <hi>Betty Terry</hi> lived, and asked if they thought ſhe could ſay any thing againſt Doctor <hi>Bury,</hi> which if ſhe did, ſhe ſhould be well rewarded: But the ſaid <hi>Joan</hi> told the ſaid <hi>Elizabeth Auſtin,</hi> that ſhe would not tell the particular re<g ref="char:EOLhyphen"/>ward which was offered. This <hi>Elizabeth Terry</hi> teſti<g ref="char:EOLhyphen"/>fieth that ſhe lived in Doctor <hi>Bury</hi>'s Houſe a whole year, and never ſaw any immodeſt or indecent carriage in him toward her ſelf, or any other bo<g ref="char:EOLhyphen"/>dy. But poor people affrighted at the undoing of others for ſwearing truth, though compelled to it by Warrant from the Vice Chancellors Court, are very hardly induced to ſay any thing, for which reaſon the Mother and Siſter of <hi>Elizabeth Terry</hi> will not ſpeak what they know.</p>
+            <p>Laſtly. Since the whole force of the Accuſation dependeth upon the ſingle and contradicted te<g ref="char:EOLhyphen"/>ſtimony of one Wench, it is worth heeding that ſhe is an infamous lying Creature, and proved ſo by ſome Affidavits annexed, to which many more might have been added had there been need.</p>
+            <p>And now what more in ſuch a caſe can be ex<g ref="char:EOLhyphen"/>pected to clear an innocent man, from the malici<g ref="char:EOLhyphen"/>ous ſlander of a Revengeful Woman? The Rector ſuperannuated, the Wench infamous, the whole Fa<g ref="char:EOLhyphen"/>mily revengeful, every word of either of their teſti<g ref="char:EOLhyphen"/>monies diſproved, endeavors uſed to get others to cor<g ref="char:EOLhyphen"/>roborate
+<pb n="18" facs="tcp:95322:12"/>their lying accuſations, the Viſitor con<g ref="char:EOLhyphen"/>vinced, <hi>&amp;c.</hi>
+            </p>
+            <p>Though the Rector hath met with as much ſeveri<g ref="char:EOLhyphen"/>ty in the world (perhaps) as any man of his qua<g ref="char:EOLhyphen"/>lity, yet he hath reaſon to expect that this ſcandal ſhould rather turn to his Credit, than Diſgrace, notwithſtanding the ſticking quality of this kind of filth.</p>
+            <p>
+               <hi>ANd now before he leaveth the Stage,</hi> on which the Authors malice hath expoſed him, it is thought fit to give ſome account how he hath provoked the Younger, Looſer, and Buſier Part of the Uni<g ref="char:EOLhyphen"/>verſity, to perſecute him as they do.</p>
+            <p>When <hi>Oxford</hi> was rather a Garriſon than an Uni<g ref="char:EOLhyphen"/>verſity, he did his little to ſerve King <hi>Charles</hi> I. by labouring in the Works, and watching in the Guards, as a Souldier in the Univerſity Regiment. When the prevailing Party ſent Viſitors to the Univer<g ref="char:EOLhyphen"/>ſity, he refuſed to ſubmit, and for that, and read<g ref="char:EOLhyphen"/>ing Common Prayer in the Chappel, was driven out of Town by a file of Muſquetiers. (What ma<g ref="char:EOLhyphen"/>lignant Star viſited this poor mans Birth, that He only ſince the Creation of the World ſhould be twice expelled out of the ſame Colledge for the ſame Crime (I ſhould have ſaid Merit) faithfulneſs to his Duty.)</p>
+            <p>Thus expelled from his Fellowſhip, he went in<g ref="char:EOLhyphen"/>to the Country, where with his ſequeſtred Father, without any ſinful complyance with the proſper<g ref="char:EOLhyphen"/>ing Party, he weathered out that troubleſome time.</p>
+            <p>Upon Reſtauration of the Kingly Government, he was proffered preferment more than eight times the value of this Rectorſhip: But juſt in the nick,
+<pb n="19" facs="tcp:95322:12"/>ſome of the Fellows (whereof one was Mr. <hi>Payn<g ref="char:EOLhyphen"/>ter,</hi> his new elected Succeſſor) made complaint to the then Biſhop of <hi>Exeter</hi> (Doctor <hi>Ward</hi>) that the Rector muſt be removed, or the Colledge ru<g ref="char:EOLhyphen"/>ined. The preſent Rector was by a Friend per<g ref="char:EOLhyphen"/>ſwaded that it would be a very meritorious Work if he would take the place: It was contrived that be ſhould quit his proffered preſerment, part where<g ref="char:EOLhyphen"/>of ſhould be given to the Rector in exchange for his Rectorſhip: In this agreement the Society of the Colledge had not been conſulted, and when it came to be put in practice, would not conſent to it, none more oppoſing it than Mr. <hi>Paynter,</hi> who thereby loſt the pleaſure of ſeeing a Rector expelled.</p>
+            <p>This preſent Rector therefore begged the Biſhop to leave him to his former courſe: He ſaid he was ready to exchange a Preferment that would main<g ref="char:EOLhyphen"/>tain him, for one that would need maintenance; but he was loth thereby to purchaſe an uneaſie life among thoſe that would hate him for it. The Biſhop was too far engaged to retire, expreſſed great anger againſt the now Rector for mention<g ref="char:EOLhyphen"/>ing it, and brought him to the Arch-biſhop <hi>(Shel<g ref="char:EOLhyphen"/>don)</hi> who promiſed, that when he had done this good office, he ſhould not be long left in the place. He was therefore conſtrained to ſubmit to be elected upon the King's Mandate.</p>
+            <p>This made him lookt upon as an enemy to the priviledges, not of this Colledge only, but of the whole Univerſity: And though in the One by his Converſation and Conduct, he overcame this pre<g ref="char:EOLhyphen"/>judice, yet he findeth himſelf not pardoned by the Other.</p>
+            <p>Thus in recompence for having been baniſhed <hi>out</hi> of his Colledge for Loyalty, he was baniſhed
+<pb n="20" facs="tcp:95322:13"/>
+               <hi>into it</hi> for Generoſity; obliged to add three pence of his own to every penny he received for his maintenance in that Station; wherein notwith<g ref="char:EOLhyphen"/>ſtanding, he ſat down contented, without the leaſt endeavour for advancement.</p>
+            <p>And as for his behaviour in that coſtly place, this is the ſum of his Socinianiſm and Arbitrary Government. He publickly in the Chappel told the whole Colledg, that by the Canons of the Church, they were o<g ref="char:EOLhyphen"/>bliged to bow at the Name of <hi>Jeſus;</hi> and whereas formerly there had been only annual Communi<g ref="char:EOLhyphen"/>ons at <hi>Eaſter,</hi> he made them monthly, himſelf al<g ref="char:EOLhyphen"/>ways Conſecrating.</p>
+            <p>Whereas they uſed in ruſtick manner to ſit when Pſalms were reading, he aſſumed not Arbitrary Pow<g ref="char:EOLhyphen"/>er to Command, but Perſwading ſome of the beſt enclined to joyn with him; by his own and their example he ſhamed the reſt, and ſo brought all to ſtand up. Whereas there had uſed to be a Pſalm in rhythm ſung after the Chapter, he cauſed the Hymns regularly to be read: And hoping to get them ſung as they are in ſome Colledges in <hi>Cambridge,</hi> at his own coſt ſet up an Organ in the Chappel: But this deſign failed, partly for want of maintenance for an Organiſt, partly becauſe the company joyn not their voices when there is one.</p>
+            <p>This is the true account of his <hi>indifference to Orders in the Chappel,</hi> objected by the Libeller.</p>
+            <p>Then for <hi>Diſcipline</hi> in point of <hi>Manners:</hi> Where<g ref="char:EOLhyphen"/>as Tutors had long neglected to bring their Pupils to Prayer in their Chambers, or take any other account of them at night, by which neglect they had free liberty to be drunk: To ſupply this de<g ref="char:EOLhyphen"/>fect, he propoſed to the Society, and had their conſent, to have Prayers in the Chappel at nine of
+<pb n="21" facs="tcp:95322:13"/>the Clock; where by having a view of every one that was preſent, and a Note of every one that was abſent; and by exacting an account of the reaſon for which the abſent were ſo, he immediately effected a viſible change in point of Sobriety, which conti<g ref="char:EOLhyphen"/>nued till this Viſitation did not only Slacken but quite Break the reins of Government, and then the young men took liberty to be more debauched than ever, and in gratitude joined together againſt the Ruler and other Officers. For oeconomy, he found the Colledg plunged in debt, but had now not only freed it from debt, but ſtocked it with ſome Money to defray the Expences which our Patron doth now neceſſitate us to undergo. His own Lodging was ſo unhabitable, that he was fain to hire the Houſe which his Predeceſſor (Dr. <hi>Prideaux</hi>) built, deſign<g ref="char:EOLhyphen"/>ing to leave it to his Succeſſors, but neceſſitated to leave it to a Daughter. He ſo altered and enlarged it, as to double his Lodging, and make it ſuitable (at leaſt) to the quality of the Inhabitant.</p>
+            <p>Colledg Chambers were ſo ſcarce and bad, that a Fellow muſt have ſix or ſeven Juniors before he could have one free to himſelf, as every one now hath by raiſing a Pile of Building upon a diſgrace<g ref="char:EOLhyphen"/>ful waſte corner. This was done partly by Contri<g ref="char:EOLhyphen"/>butions of Gentlemen that had formerly been of the Colledg, partly by Entrance-money of Fellow-Commoners with conſent of the Society, partly by the Rector's own.</p>
+            <p>And for a further reception of young Gentle<g ref="char:EOLhyphen"/>men, and augmentation of the Rector's Mainte<g ref="char:EOLhyphen"/>nance by the Rents, out of his own Purſe he add<g ref="char:EOLhyphen"/>ed an equal Pile of Buildings adjoining thereto.</p>
+            <p>Thus hath this unhappy Man ſpent and been ſpent about five and twenty years, to the impove<g ref="char:EOLhyphen"/>riſhment
+<pb n="22" facs="tcp:95322:14"/>of himſelf, as well during the whole courſe of his Government, as at his firſt entrance upon it; and his love to his Colledg is ſo unalterable, that however grievous it may ſeem to leave thoſe ad<g ref="char:EOLhyphen"/>vantages to a Competitor, which he purchaſed for his lawful Succeſſors; yet he would rather do it, than be an occaſion of damnifying his beloved Col<g ref="char:EOLhyphen"/>ledg by an expenſive defence of his right, were it not a greater damage to it, to be ſpoiled of its Pri<g ref="char:EOLhyphen"/>viledges than to ſpend its Money.</p>
+         </div>
+         <div type="documents">
+            <head>Depoſitions and Certificates.</head>
+            <div type="deposition">
+               <head>
+                  <hi>The Depoſition of</hi> Grace Weeks, <hi>Spinſter, taken before Sir</hi> William Walker <hi>Knight, one of their Majeſties Juſtices of the Peace for the City of</hi> Oxford, <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> 13. 1690.</head>
+               <p>THis Deponent ſaith, that while ſhe was ly<g ref="char:EOLhyphen"/>ing in Bed with <hi>Mary Smith</hi> in the Rector's Lodgings at <hi>Exeter</hi> Colledg in <hi>Oxford,</hi> ſhe the ſaid <hi>Mary</hi> did tell her the ſaid <hi>Grace,</hi> after her awaking in the night, that ſome perſon had come into the Bed where they lay; but ſhe, the ſaid <hi>Grace,</hi> did neither ſee, nor feel, nor hear any ſuch perſon; and ſhe then told the ſaid <hi>Mary</hi> ſo, who then ſaid to her, perhaps it was <hi>Richard</hi> (meaning the Rector's Servant of that name) and if ſo, ſaid ſhe, we ſhall know to morrow.</p>
+               <p>And ſhe doth further Depoſe, That Dr. <hi>Bury</hi> did never ſhew any uncivil, or unbecoming behaviour towards her the ſaid <hi>Grace.</hi>
+               </p>
+               <p>And this Deponent doth further ſay, That when ſhe was Summon'd by the Biſhop of <hi>Exeter</hi> in the
+<pb n="23" facs="tcp:95322:14"/>late Viſitation at the ſaid Colledg, and Examined by his Lordſhip, whether ſhe knew any lewdneſs by the Rector, ſhe the ſaid <hi>Grace</hi> replied, That ſhe ne<g ref="char:EOLhyphen"/>ver did; and ſhe did then offer to ſwear ſo much; but his Lordſhip ſaid, being a Gentlewoman ſhe ſhould be diſmiſſed.</p>
+               <p>And ſhe doth moreover Depoſe, That ſhe having blamed the ſaid <hi>Mary Smith</hi> at the time of the ſaid Viſitation, for her Information againſt Dr. <hi>Bury,</hi> as being falſe, ſhe the ſaid <hi>Mary</hi> replied to her, Malice ſhall have revenge.</p>
+               <closer>
+                  <signed>Grace Weeks.</signed> 
+                  <hi>Die &amp; Anno praedict' ſupra ſcripta</hi> Gratia Weeks <hi>Juramentum prestitit, tactis per eam, &amp; deoſculatis S. S. Chriſti Evan<g ref="char:EOLhyphen"/>geliis coram prefato Venel' Viro Gulielmo Walker milite de veritate permiſſorum.</hi>
+                  <signed>
+                     <hi>Ita teſtor</hi> Ben. Cooper <hi>Not. Publicus.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <head>
+                  <hi>The Depoſition of</hi> Mary Wells <hi>Wife of</hi> Thomas Wells, <hi>Cook, taken before Sir</hi> William Walker <hi>one of their Majeſties Juſtices of the Peace for the City of</hi> Ox<g ref="char:EOLhyphen"/>ford, <hi>upon Oath,</hi> Octob. 8. 1690.</head>
+               <p>THIS Deponent ſaith, That ſhe lived as Ser<g ref="char:EOLhyphen"/>vant about ſeven years in the Family of Dr. <hi>Bury</hi> Rector of <hi>Exeter</hi> Colledg, and has much fre<g ref="char:EOLhyphen"/>quented his Houſe for about twelve years ſince ſhe left his Service, and in all that time ſhe never knew any diſhoneſty by the ſaid Rector; or that he had ever ſhewed the leaſt indecent behaviour towards
+<pb n="24" facs="tcp:95322:15"/>her, nor did ſhe obſerve him to be rude to his Ser<g ref="char:EOLhyphen"/>vants, or to uſe any immodeſt words, but that he was of a ſober and regular Converſation, and took great care that his Servants ſhould frequent the Church and Prayers. And this Deponent further ſaith, That when <hi>Katherine Wakeham,</hi> being a Ser<g ref="char:EOLhyphen"/>vant in the Rector's Family together with this De<g ref="char:EOLhyphen"/>ponent about twenty year ago, did appear to be with Child, ſhe the ſaid <hi>Katherine</hi> being call'd upon to declare who was the Father of her Child, did anſwer, that the Father of the Child ſhould himſelf confeſs it, as this Deponent was then inform'd; and ſhe ſaith, that the next Evening after, while this Deponent was drawing Drink in the Cellar of the Rector's Lodgings, a young man who waited upon the Rector came to her, and with trembling begged her to make his peace with the Rector and his Wife, or he ſhould be undone, for that <hi>Katherine Wakeham</hi> had laid her Child to him. To whom this Deponent replied, That ſhe believed then that he was the Fa<g ref="char:EOLhyphen"/>ther of it; whereupon he confeſſed to this Depo<g ref="char:EOLhyphen"/>nent, that he had lain with the ſaid <hi>Katherine</hi> ſeve<g ref="char:EOLhyphen"/>ral times. And this Deponent alſo ſaith, That the ſaid <hi>Katherine</hi> did declare him, the ſaid young man, to be the Father of her Child; and though this De<g ref="char:EOLhyphen"/>ponent did preſs the ſaid <hi>Katherine</hi> to own whither ſhe had lain with any other man beſides him the ſaid young man, yet ſhe did not own to her that ſhe had, nor to any other that ſhe heard of. And this De<g ref="char:EOLhyphen"/>ponent ſaith, That ſhe did always think that the ſaid young man was Father of the ſaid <hi>Katherine</hi>'s Child; and that he provided for it, and that after it did appear the ſaid <hi>Katherine</hi> was with Child, and that the ſaid young man was Father of it, they were both on that account turned out of the Rector's Fa<g ref="char:EOLhyphen"/>mily,
+<pb n="25" facs="tcp:95322:15"/>and that ſhe never knew any of the Rector's Servants happened to be with Child beſides <hi>Kathe<g ref="char:EOLhyphen"/>rine Wakeham</hi> aforeſaid.</p>
+               <closer>
+                  <signed>The Mark of <hi>Mary Wells.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <opener>
+                  <dateline>In Cancellar'</dateline>
+               </opener>
+               <p>
+                  <hi>MArtha</hi> the Wife of <hi>John Jagoe,</hi> Clerk, and Daughter of <hi>Robert Wotton</hi> of <hi>Oxford,</hi> ma<g ref="char:EOLhyphen"/>keth Oath, That ſhe never did know Dr. <hi>Bury</hi> Re<g ref="char:EOLhyphen"/>ctor of <hi>Exeter</hi> Colledg, to be guilty of any im<g ref="char:EOLhyphen"/>modeſt Carriage in word or deed; But ſhe believeth him to be as chaſte and honeſt as any man whatſo<g ref="char:EOLhyphen"/>ever.</p>
+               <closer>
+                  <signed>Martha Jago.</signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>Jurat' apud Wendron in Com' Cornub' Viceſimo quarto die Septemb. Anno Dom'</hi> 1690. <hi>Coram me</hi>
+                  </p>
+                  <closer>
+                     <signed>Rich. Remfry</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <head>
+                  <hi>The Depoſition of Mrs.</hi> Frances Guiſe <hi>of</hi> Abload's Court <hi>in</hi> Glouceſter-ſhire, <hi>taken upon Oath before Sir</hi> William Walker, <hi>one of Their Majeſties Juſti<g ref="char:EOLhyphen"/>ces of the Peace for the City of</hi> Oxford, <hi>September the</hi> 18th. 1690.</head>
+               <p>THis Deponent ſaith, That living in the Re<g ref="char:EOLhyphen"/>ctor's Lodgings of <hi>Exeter</hi> Colledg in <hi>Oxford,</hi> that <hi>Thomaſin Smith</hi> (Mother of <hi>Mary Smith</hi>) when the ſaid <hi>Thomaſin Smith</hi> was in danger of being turn'd out of her Employment in the ſaid Colledg, came
+<pb n="26" facs="tcp:95322:16"/>to this Deponent and threatned, that if the ſaid <hi>Tho<g ref="char:EOLhyphen"/>maſin</hi> and her Family were put out of the Colledg, there would be Swearing againſt the Rector: And this Deponent asking her, what would be Sworn? ſhe the ſaid <hi>Thomaſin</hi> anſwer'd and ſaid, that the Re<g ref="char:EOLhyphen"/>ctor had come to bed to her Daughter Mary and Mrs. <hi>Grace Weeks;</hi> upon which this Deponent went immediately to the ſaid Rector and acquainted him with what <hi>Thomaſin</hi> had ſaid, and the ſaid Rector reply'd, he would not be frighted out of his duty, and this Deponent preſſing the ſaid Rector, what ground there was for it? he anſwered, Nothing but pure malice and invention: But, ſaid he, for your ſa<g ref="char:EOLhyphen"/>tisfaction, ask <hi>Grace Weeks,</hi> which accordingly this Deponent preſently did; and the ſaid <hi>Grace</hi> did pro<g ref="char:EOLhyphen"/>teſt to this Deponent, that if ſhe was to die the next minute ſhe did not know that ever that Rector came to bed to her, and the ſaid <hi>Mary Smith;</hi> but only that <hi>Mary Smith</hi> told her one night, that ſhe thought that ſome one had been in the Bed with her, and that they two had talked together their ſeveral imagina<g ref="char:EOLhyphen"/>tions. This Deponent further ſaith, that before and after that time ſhe hath ſeen the ſaid <hi>Thomaſin</hi> very much enraged againſt the ſaid Rector, ſaying he would and had taken away the Bread out of their Mouths, and could do them no greater ſpight, un<g ref="char:EOLhyphen"/>leſs he would hang them. And this Deponent further ſaith, That ſeveral years paſt ſhe has ſeen the Mole in the ſaid Rector's Foot, and hath often heard him ſay, That if he was loſt, he might be known by that Mark.</p>
+               <closer>
+                  <signed>Jurat coram me William Walker.</signed>
+                  <signed>Frances Guiſe.</signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <pb n="27" facs="tcp:95322:16"/>
+               <head>
+                  <hi>The Depoſition of</hi> Elizabeth Weeks <hi>Spinſter, taken before Sir</hi> William Walker <hi>Knight, one of their Ma<g ref="char:EOLhyphen"/>jeſties Justices of the Peace for the City of</hi> Oxford, <hi>September the</hi> 18. 1690.</head>
+               <p>THis Deponent ſaith that about two years ſince as ſhe was waiting upon the Rector of <hi>Exeter</hi> Colledge, and his Wife: Her Maſter and Miſtreſs at their going to bed, ſhe ſaw the Mole on the foot of her ſaid Maſter, and that ſhe did not think it to be a ſecret.</p>
+               <closer>
+                  <signed>Jurat coram me William Walker</signed>
+                  <signed>Elizabeth Wyks.</signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <head>
+                  <hi>The Depoſition of</hi> Edward Strickland <hi>Apothecary in</hi> Oxford, <hi>taken before Sir</hi> William Walker <hi>Knight, one of their Majesties Juſtices of the Peace for the City of</hi> Oxford, <hi>September</hi> 18. 1690.</head>
+               <p>THis Deponent ſaith that <hi>Mary Smith</hi> having been for ſome ſhort time Servant in his houſe, was while ſhe lived there very much addicted to lying, and did practice it ſo frequently, that thoſe of the family could not believe any thing that ſhe ſaid, and this Deponent further ſaith, that the ſaid <hi>Mary</hi> did uſe to keep ill company, and particularly that ſhe went from the houſe of him the ſaid <hi>Edward</hi> with a young man, who was ſaid to be expell'd from his Colledge, and that ſhe ſtaid away all night, and did never return again to her Maſters ſervice.</p>
+               <closer>
+                  <signed>Jurat coram me William Walke</signed>
+                  <signed>Edward Stricklnad.</signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <pb n="28" facs="tcp:95322:17"/>
+               <head>
+                  <hi>The Depoſition of</hi> Mary Strickland <hi>of</hi> Oxford <hi>taken be<g ref="char:EOLhyphen"/>fore Sir</hi> William Walker <hi>Knight one of their Ma<g ref="char:EOLhyphen"/>jeſties Justices of the Peace for the City of</hi> Oxford, <hi>September</hi> 18. 1690.</head>
+               <p>THis Deponent ſaith that ſhe obſerved of <hi>Ma<g ref="char:EOLhyphen"/>ry Smith,</hi> who lodged at her houſe while ſhe was ſervant to <hi>Edward Strickland,</hi> her Son-in-law, that ſhe was ſo much addicted to lying that no credit could be given to any thing that ſhe ſaid; and this Deponent further ſaith, that the ſaid <hi>Mary</hi> uſed to keep ill company, and alſo that ſhe was much given to ſwearing, and that ſhe did endeavour to get be<g ref="char:EOLhyphen"/>lief to her lies by addition of Oaths.</p>
+               <closer>
+                  <signed>Jurat coram me William Walker.</signed>
+                  <signed>Mary Strickland.</signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <p>I <hi>Catherin Wiggins</hi> of St. <hi>Peter's,</hi> in the Eaſt, in the City of <hi>Oxon,</hi> do certifie all perſons to whom thoſe Preſents ſhall come that <hi>Mary Smith</hi> daughter of <hi>Ferdinando Smith,</hi> my late Boarder, and Scholar is of a looſe Life, and Converſation much addicted to Swearing and Lying, wiſhing ſad wiſhes upon her ſelf and others, and told me ſhe was a Night-Walker, and burnt eighteen Faggots in one night, and confeſſed that ſhe with her confederates ſtole from me a Veſſel of ſtrong beer, which Veſſel of ſtrong beer was ſtolen from my houſe, and many of my School-Scholars were kept from me, as I conceive by reaſon of her diſhoneſty and ill behaviour, and I had ſeveral other goods taken out
+<pb n="29" facs="tcp:95322:17" rendition="simple:additions"/>of my houſe feloniouſly whileſt ſhe was with me, all which I do ſay, and can ſafely depoſe upon my Oath to be true, Dated under my hand <hi>September</hi> 22. 1690.</p>
+               <closer>
+                  <signed>Ann Wiggins.</signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <p>The day and year aboveſaid, the ſaid <hi>Katherine Wiggins</hi> came before me, and did voluntarily de<g ref="char:EOLhyphen"/>poſe that the aforeſaid Certificate is Truth:</p>
+               <closer>
+                  <signed>
+                     <hi>Richard Hawkins,</hi> Mayor.</signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <p>
+                  <hi>ANn Hale</hi> of the Pariſh of St. <hi>Peter,</hi> in the Eaſt in <hi>Oxon</hi> Spinſter, the day and year a<g ref="char:EOLhyphen"/>boveſaid depoſeth that the ſaid <hi>Mary Smith,</hi> ac<g ref="char:EOLhyphen"/>knowledged that ſhe and her Confederates ſtole a veſſel with ſtrong beer from the houſe of the ſaid <hi>Catherine Wiggins.</hi>
+               </p>
+               <closer>
+                  <signed>Ann Hale.</signed>
+                  <signed>
+                     <hi>Jurat die &amp; anno ſuper dict. coram me</hi> Richard Hawkins, <hi>Mayor.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <p>I <hi>Anne Harper</hi> the wife of <hi>William Harper</hi> of the City of <hi>Oxford</hi> Maltman do hereby certifie all whom it may concern, that I never had any ac<g ref="char:EOLhyphen"/>quaintance with Dr. <hi>Bury</hi> the Rector of <hi>Exeter</hi> Col<g ref="char:EOLhyphen"/>ledge neither did I ever ſee him unleſs it were in the Streets: Nor did I ever know any harm of him in all my life: Nor did I tell any ill thing of him to <hi>Tho<g ref="char:EOLhyphen"/>maſin Smith.</hi>
+               </p>
+               <p>All this was owned to be true in preſence of us</p>
+               <closer>
+                  <date>
+                     <hi>October</hi> 9th. 1690</date>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Frances Guiſe</hi>
+                        </item>
+                        <item>
+                           <hi>Ben. Archer</hi>
+                        </item>
+                        <item>
+                           <hi>Elizabeth Wykes</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <pb n="30" facs="tcp:95322:18"/>
+               <head>
+                  <hi>Octob.</hi> 9. 1690</head>
+               <p>THeſe are to Certify all whom it may concern that I <hi>Elizabeth Terry</hi> lived as a ſervant in Dr. <hi>Arthur Bury's</hi> lodgings at <hi>Exeter</hi> Colledge a whole year and in all that time did ſee no indecent or immodeſt behaviour of the ſaid Dr. <hi>Bury</hi> towards me or any other body, which I am ready to teſtify upon Oath when I am thereunto lawfully called.</p>
+               <closer>
+                  <signed>The mark of <hi>Elizabeth Terry.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <p>I <hi>Elizabeth Auſtin</hi> wife of <hi>William Auſtin</hi> Butcher of the Town of <hi>Cumner</hi> in the County of <hi>Berks,</hi> do certify whom it may concern that <hi>Jean Richardſon</hi> Siſter of <hi>Elizabeth Terry</hi> told me that <hi>Thomaſin Smith</hi> came to her Mother and her to enquire where the ſaid <hi>Betty Terry</hi> lived, and askt if they thought ſhe could ſay any thing againſt Dr. <hi>Bury</hi> the Rector of <hi>Exeter</hi> Colledge, which if ſhe did do ſhe ſhould be well rewarded; But the ſaid <hi>Joan</hi> did ſay that ſhe would not tell me what they were offered.</p>
+               <closer>
+                  <signed>Witneſs my hand. The mark <hi>&amp;c.</hi>
+                  </signed>
+                  <date>
+                     <hi>Octob.</hi> 11. 1690.</date>
+               </closer>
+            </div>
+            <div type="deposition">
+               <head>
+                  <hi>The Depoſition of</hi> Elizabeth Roberts <hi>Widow taken be<g ref="char:EOLhyphen"/>fore Sir</hi> William Walker <hi>Knight one of their Ma<g ref="char:EOLhyphen"/>jeſties Juſtices of the Peace for the City of</hi> Oxford, <hi>upon Oath October the</hi> 9 1690.</head>
+               <p>THis Deponent ſaith that ſhe did never uſe any means for perſwading <hi>Ann Sparrow</hi> to lay her
+<pb n="31" facs="tcp:95322:18"/>Child to Mr. <hi>Colmer</hi> or any other man; and ſhe farther ſaith, that when ſhe was ſent for by the Lord Biſhop of <hi>Exeter</hi> at the time of his late Viſitation in <hi>Exeter</hi> Colledg there was nothing objected a<g ref="char:EOLhyphen"/>gainſt her concerning <hi>Ann Sparrow</hi> nor any queſti<g ref="char:EOLhyphen"/>on put about her. But that this Deponent was then asked whither ſhe knew any harm (or words to that effect) of the Rectors houſe, to which this Deponent anſwered that ſhe did not, and was there<g ref="char:EOLhyphen"/>upon diſmiſt. And this Deponent ſaith further that when <hi>Ann Sparrow</hi> was in <hi>Oxford,</hi> ſhe asked her the ſaid <hi>Ann Sparow</hi> if ever ſhe had perſwaded her to lay her Child to Mr. <hi>Colmer,</hi> to which ſhe anſwer<g ref="char:EOLhyphen"/>ed that ſhe never did, nor did ſhe ever ſay ſo.</p>
+               <closer>
+                  <signed>The Mark of <hi>Elizabeth Roberts.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <head>
+                  <hi>The Certificate of</hi> Richard Hedges <hi>Cook, October</hi> 9th 1690.</head>
+               <p>I <hi>Richard Hedges</hi> Cook of <hi>Exeter</hi> Colledge do de<g ref="char:EOLhyphen"/>declare that in the preſentment which I deliver<g ref="char:EOLhyphen"/>ed into the Biſhop of <hi>Exeter,</hi> at his late viſitation of <hi>Exeter</hi> Colledge I did ſay that I gave Mr. Rector fifty pounds for my place, which he told me was to be laid out upon the new buildings of the Col<g ref="char:EOLhyphen"/>ledg, theſe are the words as near as I remember, but that this is the ſubſtance of them I am ready to make Oath when I am thereunto lawfully called:</p>
+               <closer>
+                  <signed>Witneſs my hand, <hi>Richard Hedges.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <p>I <hi>William Newe</hi> Butler of <hi>Exeter</hi> Colledge do here<g ref="char:EOLhyphen"/>by certify that at my admiſſion into the ſaid Office I paid to Mr. Rector one hundred and ſeventy
+<pb n="32" facs="tcp:95322:19"/>Pounds. And he ſaid it ſhould be laid out on buil<g ref="char:EOLhyphen"/>ding in the Colledge.</p>
+               <closer>
+                  <signed>William Newe.</signed>
+               </closer>
+            </div>
+            <div type="deposition">
+               <p>WE whoſe names are underwritten having view<g ref="char:EOLhyphen"/>ed the new Buildings in <hi>Exeter</hi> Colledge. Erected by Dr. <hi>Arthur Bury</hi> Rector of the ſaid Coll. at his own coſt, namely the Building at the Weſt end of the Chappel, the Addition made to the Re<g ref="char:EOLhyphen"/>ctor's Lodings, and the new Stable, according to our beſt Eſtimation judg the charges of all the ſaid Buildings to be as followeth;</p>
+               <p>The Building at the Weſt end of the Chappel, four hundred ſixty nine pounds four ſhillings and two pence.</p>
+               <p>The Addition to the Rectors Lodgings, two hun<g ref="char:EOLhyphen"/>dred and ſixty pounds.</p>
+               <p>The Stable and Sadle houſe fifty pounds.</p>
+               <p>The whole ſum, ſeven hundred ſeventy nine pounds four ſhillings and two pence.</p>
+               <p>The Valuation of the charges of the Buildings a<g ref="char:EOLhyphen"/>bove mentioned was given in upon the reſpective Oaths of the Perſons, whoſe names are under writ<g ref="char:EOLhyphen"/>ten before Sir <hi>William Walker</hi> one of their Majeſties Juſtices of the Peace for the City of <hi>Oxford, Sep<g ref="char:EOLhyphen"/>tember</hi> 13. 1690.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>John Townſend,</hi> Maſon.</item>
+                        <item>
+                           <hi>William Colliſſon,</hi> Capenter</item>
+                        <item>
+                           <hi>John Wiggins,</hi> Plaiſterer.</item>
+                     </list>
+                  </signed>
+                  <signed>
+                     <hi>Ita Teſtor</hi> Ben. Cooper <hi>Not. Publicus.</hi>
+                  </signed>
+               </closer>
+               <pb facs="tcp:95322:19"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
